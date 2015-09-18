@@ -1,0 +1,10 @@
+.babelrc
+.eslintrc
+.eslintignore
+esdoc.json
+karma.conf.js
+npm-debug.log
+server.js
+webpack.*
+/test
+/src
